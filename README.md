@@ -1,2 +1,2 @@
 # Web-Application-MVC
-Aplicação web em C# .NET Core
+Aplicação web MVC em C# .NET Core com Entity Framework
